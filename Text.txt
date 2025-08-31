@@ -43,3 +43,11 @@ Advantages:
 - Better collaboration with branching and merging.
 Disadvantages:
 - Steeper learning curve.
+
+Here are some key reasons to use VCS:
+
+1. Tracking Changes
+2. Reverting to Previous Versions
+3. Collaboration
+4. Code Review and Quality Assurance
+5. Backup and Recovery
