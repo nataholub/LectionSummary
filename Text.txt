@@ -1,1 +1,6 @@
 	Beginner's Guide to Version Control Systems (VCS)
+
+A Version Control System is a tool that helps developers manage changes to code over time.
+It records every modification made to a project, providing a detailed history of changes,
+making it easy to revert to previous versions, and facilitating collaboration between
+multiple developers.
