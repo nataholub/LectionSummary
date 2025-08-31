@@ -11,6 +11,10 @@ Types of Version Control Systems:
 In a local VCS, all versioning is managed on a single computer. Developers manually track
 changes by saving copies of the project at different stages.
 Example: Using folders like Project_v1, Project_v2, and so on to maintain versions.
+Disadvantages:
+- Difficult to track changes accurately.
+- No collaboration support.
+- High risk of data loss if the computer crashes.
 
 2. Centralised Version Control Systems
 In a CVCS, a central server stores all project files and version history. Developers work
@@ -18,6 +22,13 @@ on local copies and synchronise changes with the central server.
 Examples:
 - Apache Subversion (SVN): Popular in the early 2000s.
 - Perforce: Still used in certain industries like gaming.
+Advantages:
+- Centralised control simplifies administration.
+- Teams can work on shared projects.
+Disadvantages:
+- Dependency on the central server.
+- No offline access to version history.
+- Risk of server failure.
 
 3. Distributed Version Control Systems
 DVCS stores a complete copy of the project and version history on every developer’s
@@ -26,3 +37,9 @@ repository.
 Examples:
 - Git: The most widely used DVCS.
 - Mercurial: Known for ease of use.
+Advantages:
+- Offline access to the full project history.
+- No single point of failure.
+- Better collaboration with branching and merging.
+Disadvantages:
+- Steeper learning curve.
