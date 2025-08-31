@@ -4,3 +4,9 @@ A Version Control System is a tool that helps developers manage changes to code 
 It records every modification made to a project, providing a detailed history of changes,
 making it easy to revert to previous versions, and facilitating collaboration between
 multiple developers.
+
+Types of Version Control Systems:
+
+1. Local Version Control Systems
+2. Centralised Version Control Systems
+3. Distributed Version Control Systems
